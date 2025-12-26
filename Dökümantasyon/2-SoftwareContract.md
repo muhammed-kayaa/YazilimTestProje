@@ -4,7 +4,7 @@
 AI vs İnsan Metin Dedektörü
 
 ## 2. Proje Ekibi
-- (İsim Soyisim 1)
+- (İsim Soyisim 1)0
 - (İsim Soyisim 2)
 - (İsim Soyisim 3) (varsa)
 
